@@ -22,7 +22,7 @@ public class Category {
     String name;
 
     int a =0;
-    
+    int b =1;
 	public int getId() {
         return id;
     }
