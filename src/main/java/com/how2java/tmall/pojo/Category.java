@@ -20,20 +20,5 @@ public class Category {
     int ab = 56;
     
     String name;
-
-    int a =0;
-    int b =1;
-	public int getId() {
-        return id;
-    }
-    public void setId(int id) {
-        this.id = id;
-    }
     
-    public String getName() {
-        return name;
-    }
-    public void setName(String name) {
-        this.name = name;
-    }
 }
